@@ -1,5 +1,5 @@
 async function get(url) {
-  const response = await fetch("https://360pr.sse.codesandbox.io/https://python-html-json.herokuapp.com/get/?link=" + url);
+  const response = await fetch("https://360pr.sse.codesandbox.io/https://python-html-json.herokuapp.com/get/?link=" + url); // Change the proxies if you want to
   const data = await response.json();
   return data.result;
 }
