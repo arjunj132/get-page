@@ -1,5 +1,5 @@
 # Get-Page Project
-[![](https://data.jsdelivr.com/v1/package/gh/carrotscript/get-page/badge)](https://www.jsdelivr.com/package/gh/carrotscript/get-page)
+[![](https://data.jsdelivr.com/v1/package/gh/carrotscript/get-page/badge)](https://www.jsdelivr.com/package/gh/carrotscript/get-page)    [![Codacy Badge](https://app.codacy.com/project/badge/Grade/515eb13b01e544338f48648424d60779)](https://www.codacy.com/gh/arjunj132/get-page/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arjunj132/get-page&amp;utm_campaign=Badge_Grade)
 ## Installation
 
 This project is only for GET requests. To use this, just import the via the CDN:
